@@ -7,6 +7,8 @@ This is a repository of all scripts used for genetic analyses of our [publicatio
 * LDSC SNP heritability estimation and genetic correlation
 * Polygenic risk score (PRS) association with leave-one-out summary statistics
 
+Prerequisite software: METAL and plink for meta-analysis, PRSCS for polygenic risk scores
+
 Check out the Wiki for detailed steps.
 Cohort specific summary statistics from samples in VUMC, MGB, Geisinger, and MVP are available [here](https://www.dropbox.com/scl/fo/gutdg44z3p3x930jg93z0/h?dl=0&rlkey=movmo8x7620x7oxoban353x9x) for download.
 
