@@ -10,7 +10,7 @@ This is a repository of all scripts used for genetic analyses of our [publicatio
 Prerequisite software: METAL and plink for meta-analysis, PRSCS for polygenic risk scores
 
 Check out the Wiki for detailed steps.
-Cohort specific summary statistics from samples in VUMC, MGB, Geisinger, and MVP are available [here]() for download.
+Meta-analysis summary statistics are available [here](https://www.dropbox.com/sh/x823471wnncu9uk/AADbQ1RTCCtxs7ROVZfXWlvKa?dl=0) for download.
 
 Citation: https://doi.org/10.1101/2022.08.10.22278630 \
 Please contact douglas.ruderfer@vumc.org if you have any questions.
